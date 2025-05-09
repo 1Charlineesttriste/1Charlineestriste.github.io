@@ -22,13 +22,13 @@
 <section id="projects">            
 <h2>我的作品</h2>            
 <div class="project">                
-<h3>项目 1</h3>                
-<p>项目描述。</p>                
+<h3> 湖中年少 1</h3>                
+<p>我写于十八岁之前的作品的不完全收集，有几首尚未收录，我还需要再编辑。</p>                
 <a href="https://example.com">查看项目</a>            
 </div>            
 <div class="project">                
-<h3>项目 2</h3>                
-<p>项目描述。</p>                
+<h3>在人间 2</h3>                
+<p>上大学以来的作品，不满意的都没有收录。</p>                
 <a href="https://example.com">查看项目</a>            
 </div>        
 </section>        
