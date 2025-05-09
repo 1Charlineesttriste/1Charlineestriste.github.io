@@ -24,7 +24,7 @@
 <div class="project">                
 <h3>1 湖中年少 </h3>                
 <p>我写于十八岁之前的作品的不完全收集，有几首尚未收录，我还需要再编辑。</p>                
-<a href="[https://example.com](https://github.com/1Charlineesttriste/1Charlineestriste.github.io/blob/main/%E6%B9%96%E4%B8%AD%E5%B9%B4%E5%B0%91.pdf)">查看项目</a>            
+<a href="[(https://github.com/1Charlineesttriste/1Charlineestriste.github.io/blob/main/%E6%B9%96%E4%B8%AD%E5%B9%B4%E5%B0%91.pdf)]">查看项目</a>            
 </div>            
 <div class="project">                
 <h3>2 在人间 </h3>                
