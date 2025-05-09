@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>春天1</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>春天1</h1>
+        <p>老鸭汤</p>
+        <a href="index.html">返回主页</a>
+    </header>
+    <main>
+        <article>
+            <p>
+                我们称之为春天的东西
+                从中生长出
+                延伸世界的千条道路...<br>
+                我们称之为春天的东西
+                是对一切破败岁月
+                彻彻底底的辩驳...<br>
+                我们称之为春天的东西
+                把一切悬而未决的末日
+                都变成否命题...<br>
+                我们称之为春天的东西
+                正温柔而庄重地
+                为一只雏鸟伤心...
+            </p>
+        </article>
+    </main>
+    <footer>
+        <p>© 2025 [你的名字]. 版权所有。</p>
+    </footer>
+</body>
+</html>
